@@ -1,0 +1,561 @@
+2022-04-18 17:34:30,912 - Important -INFO - Browser got launched
+2022-04-18 17:34:30,921 - Important -INFO - Browser got launched
+2022-04-18 17:34:30,921 - Important -INFO - Browser got launched
+2022-04-18 17:34:30,918 - Important -INFO - Browser got launched
+2022-04-18 17:34:30,913 - Important -INFO - Browser got launched
+2022-04-18 17:34:52,659 - Important -INFO - browser opened successfully
+2022-04-18 17:34:52,783 - Important -INFO - browser opened successfully
+2022-04-18 17:34:53,871 - Important -INFO - successfully landed to loginpage
+2022-04-18 17:34:57,826 - Important -INFO - browser opened successfully
+2022-04-18 17:34:57,829 - Important -INFO - successfully landed to loginpage
+2022-04-18 17:34:57,844 - Important -INFO - browser opened successfully
+2022-04-18 17:34:57,972 - Important -INFO - browser opened successfully
+2022-04-18 17:34:58,055 - Important -INFO - landed to login page successfully
+2022-04-18 17:34:58,056 - Important -INFO - successfully landed to loginpage
+2022-04-18 17:34:59,972 - Important -INFO - email address entered successfully
+2022-04-18 17:34:59,972 - Important -INFO - email entered successfully
+2022-04-18 17:34:59,978 - Important -INFO - email entered successfully
+2022-04-18 17:35:00,045 - Important -INFO - email entered successfully
+2022-04-18 17:35:01,175 - Important -INFO - password entered successfully
+2022-04-18 17:35:01,222 - Important -INFO - password entered successfully
+2022-04-18 17:35:01,278 - Important -INFO - password entered successfully
+2022-04-18 17:35:01,321 - Important -INFO - password entered successfully
+2022-04-18 17:35:05,104 - Important -INFO - landed to signup page successfully
+2022-04-18 17:35:05,951 - Important -INFO - company name entered successfully
+2022-04-18 17:35:06,318 - Important -INFO - i am supplier of ---field working successfully
+2022-04-18 17:35:06,918 - Important -INFO - i am buyers of--- field working successfully
+2022-04-18 17:35:08,014 - Important -INFO - Trade services field working successfully
+2022-04-18 17:35:09,685 - Important -INFO - primary business dropdown working successfully
+2022-04-18 17:35:09,913 - Important -INFO - year of business establishment working successfully
+2022-04-18 17:35:11,706 - Important -INFO - company certification field working successfully
+2022-04-18 17:35:18,511 - Important -INFO - Annual sales dropdown menu working successfully
+2022-04-18 17:35:21,747 - Important -INFO - name of new member entered successfully
+2022-04-18 17:35:22,093 - Important -INFO - Designation of new member entered successfully
+2022-04-18 17:35:22,463 - Important -INFO - address of new member entered successfully
+2022-04-18 17:35:22,663 - Important -INFO - Cityname of new member entered successfully
+2022-04-18 17:35:22,966 - Important -INFO - State name of new member entered successfully
+2022-04-18 17:35:23,189 - Important -INFO - Zipcode of new member entered successfully
+2022-04-18 17:35:23,344 - Important -INFO - country dropdown menu working successfully
+2022-04-18 17:35:23,593 - Important -INFO - phone number of new member entered successfully
+2022-04-18 17:35:23,913 - Important -INFO - email of new member entered successfully
+2022-04-18 17:35:24,567 - Important -INFO - Homepage address of new member entered successfully
+2022-04-18 17:35:24,937 - Important -INFO - Login credentials of new member entered successfully
+2022-04-18 17:35:25,173 - Important -INFO - password of new member entered successfully
+2022-04-18 17:35:25,430 - Important -INFO - password of new member verified successfully
+2022-04-18 17:35:36,090 - Important -INFO - final submit button working successfully
+2022-04-18 17:35:36,091 - Important -INFO - signup test verified successfully
+2022-04-18 17:35:41,098 - Important -INFO - browser closed successfully
+2022-04-18 17:35:52,841 - Important -INFO - login button clicked succesfully
+2022-04-18 17:35:54,085 - Important -INFO - login button clicked succesfully
+2022-04-18 17:35:54,577 - Important -INFO - Account verified successfully
+2022-04-18 17:35:54,618 - Important -INFO - Account verified successfully
+2022-04-18 17:35:55,316 - Important -INFO - login button clicked succesfully
+2022-04-18 17:35:55,355 - Important -INFO - input entered in searchbar successfully
+2022-04-18 17:35:55,393 - Important -INFO - product searched successfully
+2022-04-18 17:35:55,706 - Important -INFO - Account verified successfully
+2022-04-18 17:35:56,345 - Important -INFO - successfully clicked on profile dropdown menu
+2022-04-18 17:36:00,043 - Important -INFO - successfully clicked on login button
+2022-04-18 17:36:00,737 - Important -INFO - account confirmed successfully
+2022-04-18 17:36:00,749 - Important -INFO - login test got passed
+2022-04-18 17:36:01,215 - Important -INFO - suppliers for product found successfully
+2022-04-18 17:36:05,098 - Important -INFO - browser closed successfully
+2022-04-18 17:36:07,470 - Important -INFO - find buyers via searching working successfully
+2022-04-18 17:36:09,970 - Important -INFO - clicked on inquiry button successfully
+2022-04-18 17:36:10,820 - Important -INFO - message field filled successfully
+2022-04-18 17:36:11,421 - Important -INFO - company name entered succesfully
+2022-04-18 17:36:12,359 - Important -INFO - name entered successfully
+2022-04-18 17:36:12,745 - Important -INFO - phone number field filled successfully
+2022-04-18 17:36:12,751 - Important -INFO - find sellers via searching working successfully
+2022-04-18 17:36:12,945 - Important -INFO - countries filter working fine
+2022-04-18 17:36:13,175 - Important -INFO - premium membership filter working fine
+2022-04-18 17:36:13,318 - Important -INFO - Listing type filter working fine
+2022-04-18 17:36:13,536 - Important -INFO - Date filter working fine
+2022-04-18 17:36:13,537 - Important -INFO - Search test got passed successfully
+2022-04-18 17:36:16,175 - Important -INFO - Browser got launched
+2022-04-18 17:36:16,250 - Important -INFO - Browser got launched
+2022-04-18 17:36:16,299 - Important -INFO - browser closed successfully
+2022-04-18 17:36:17,087 - Important -INFO - successfully clicked on become a premium member
+2022-04-18 17:36:20,065 - Important -INFO - Browser got launched
+2022-04-18 17:36:23,058 - Important -INFO - inquire now button clicked successfully
+2022-04-18 17:36:24,339 - Important -INFO - browser closed successfully
+2022-04-18 17:36:29,658 - Important -INFO - browser opened successfully
+2022-04-18 17:36:29,774 - Important -INFO - landed to login page successfully
+2022-04-18 17:36:30,005 - Important -INFO - browser opened successfully
+2022-04-18 17:36:30,011 - Important -INFO - successfully landed to loginpage
+2022-04-18 17:36:30,528 - Important -INFO - Browser got launched
+2022-04-18 17:36:30,894 - Important -INFO - browser opened successfully
+2022-04-18 17:36:30,897 - Important -INFO - successfully landed to loginpage
+2022-04-18 17:36:31,659 - Important -INFO - email address entered successfully
+2022-04-18 17:36:31,758 - Important -INFO - email entered successfully
+2022-04-18 17:36:32,140 - Important -INFO - email entered successfully
+2022-04-18 17:36:32,812 - Important -INFO - password entered successfully
+2022-04-18 17:36:32,881 - Important -INFO - password entered successfully
+2022-04-18 17:36:33,741 - Important -INFO - password entered successfully
+2022-04-18 17:36:36,949 - Important -INFO - successfully clicked on login button
+2022-04-18 17:36:37,350 - Important -INFO - Browser got launched
+2022-04-18 17:36:44,087 - Important -INFO - browser opened successfully
+2022-04-18 17:36:44,097 - Important -INFO - successfully landed to loginpage
+2022-04-18 17:36:45,122 - Important -INFO - email entered successfully
+2022-04-18 17:36:46,972 - Important -INFO - password entered successfully
+2022-04-18 17:36:47,528 - Important -INFO - login test got passed
+2022-04-18 17:36:51,156 - Important -INFO - browser opened successfully
+2022-04-18 17:36:51,158 - Important -INFO - successfully landed to loginpage
+2022-04-18 17:36:51,644 - Important -INFO - email entered successfully
+2022-04-18 17:36:52,181 - Important -INFO - password entered successfully
+2022-04-18 17:36:56,020 - Important -INFO - browser closed successfully
+2022-04-18 17:37:04,162 - Important -INFO - Browser got launched
+2022-04-18 17:37:09,495 - Important -INFO - login button clicked succesfully
+2022-04-18 17:37:12,881 - Important -INFO - Account verified successfully
+2022-04-18 17:37:15,410 - Important -INFO - login button clicked succesfully
+2022-04-18 17:37:16,295 - Important -INFO - Account verified successfully
+2022-04-18 17:37:20,253 - Important -INFO - Agriculture and food displaying menu successfully
+2022-04-18 17:37:20,934 - Important -INFO - Computer and electronics displaying menu successfully
+2022-04-18 17:37:21,335 - Important -INFO - Construction & Houshold displaying menu successfully
+2022-04-18 17:37:22,247 - Important -INFO - Industrial and Automotive displaying menu successfully
+2022-04-18 17:37:29,351 - Important -INFO - Misc. displaying menu successfully
+2022-04-18 17:37:30,362 - Important -INFO - Personal and entertainment displaying menu successfully
+2022-04-18 17:37:30,902 - Important -INFO - Help dropdown displaying menu successfully
+2022-04-18 17:37:31,413 - Important -INFO - Contact dropdown displaying menu successfully
+2022-04-18 17:37:32,298 - Important -INFO - For Buyers dropdown displaying menu successfully
+2022-04-18 17:37:34,094 - Important -INFO - user profile dropdown displaying menu successfully
+2022-04-18 17:37:34,430 - Important -INFO - For suppliers dropdown displaying menu successfully
+2022-04-18 17:37:35,388 - Important -INFO - Load more text functionality working fine
+2022-04-18 17:37:35,388 - Important -INFO - Dropdown test passed successfully
+2022-04-18 17:37:39,108 - Important -INFO - browser opened successfully
+2022-04-18 17:37:39,112 - Important -INFO - successfully landed to loginpage
+2022-04-18 17:37:40,623 - Important -INFO - login button clicked succesfully
+2022-04-18 17:37:40,637 - Important -INFO - email entered successfully
+2022-04-18 17:37:40,773 - Important -INFO - login button clicked succesfully
+2022-04-18 17:37:41,128 - Important -INFO - password entered successfully
+2022-04-18 17:37:41,286 - Important -INFO - Account verified successfully
+2022-04-18 17:37:41,553 - Important -INFO - Account verified successfully
+2022-04-18 17:37:42,102 - Important -INFO - input entered in searchbar successfully
+2022-04-18 17:37:42,536 - Important -INFO - category dropdown for deals clicked successfully
+2022-04-18 17:37:46,441 - Important -INFO - product added to favourites successfully
+2022-04-18 17:37:48,182 - Important -INFO - browser closed successfully
+2022-04-18 17:37:48,411 - Important -INFO - user profile dropdown clicked successfully
+2022-04-18 17:37:48,411 - Important -INFO - number of products adding to favourites displayed '1' successfully in profile dropdown menu
+2022-04-18 17:37:48,662 - Important -INFO - Active deal for product in the category selected successfully
+2022-04-18 17:37:48,663 - Important -INFO - successfully showing Active deals for selected items
+2022-04-18 17:37:53,719 - Important -INFO - Dropdown showing the (online/offline) status of product clicked successfully
+2022-04-18 17:37:53,720 - Important -INFO - Active and failed options are visible in the dropdown
+2022-04-18 17:37:55,161 - Important -INFO - active deals selected successfully
+2022-04-18 17:37:55,162 - Important -INFO - after clicking on active deals new webpage is showing all the active deals
+2022-04-18 17:38:00,226 - Important -INFO - failed deals selected successfully
+2022-04-18 17:38:00,227 - Important -INFO - after clicking on failed deals new webpage is showing all the failed deals
+2022-04-18 17:38:00,781 - Important -INFO - login button clicked succesfully
+2022-04-18 17:38:02,271 - Important -INFO - Account verified successfully
+2022-04-18 17:38:03,339 - Important -INFO - Buyers dropdown clicked successfully
+2022-04-18 17:38:04,559 - Important -INFO - fruits in the search field entered successfully
+2022-04-18 17:38:04,676 - Important -INFO - identity proof in the Documents category selected successfully
+2022-04-18 17:38:06,709 - Important -INFO - successfully clicked on search deals for products
+2022-04-18 17:38:06,934 - Important -INFO - successfully showing deals for searched item
+2022-04-18 17:38:07,195 - Important -INFO - Browser got launched
+2022-04-18 17:38:10,418 - Important -INFO - clicked on buyer dashboard successfully
+2022-04-18 17:38:12,703 - Important -INFO - start a new deal functionality clicked successfully
+2022-04-18 17:38:12,956 - Important -INFO - identity proof in the Documents category selected successfully
+2022-04-18 17:38:13,177 - Important -INFO - user is able to enter the name of the product
+2022-04-18 17:38:13,906 - Important -INFO - user is able to enter the name of the company
+2022-04-18 17:38:14,616 - Important -INFO - user is able to enter his or her name
+2022-04-18 17:38:15,042 - Important -INFO - browser opened successfully
+2022-04-18 17:38:15,048 - Important -INFO - successfully landed to loginpage
+2022-04-18 17:38:15,146 - Important -INFO - user is able to enter the email
+2022-04-18 17:38:15,323 - Important -INFO - document uploaded successfully
+2022-04-18 17:38:15,533 - Important -INFO - email entered successfully
+2022-04-18 17:38:16,525 - Important -INFO - password entered successfully
+2022-04-18 17:38:16,545 - Important -INFO - successfully clicked on post new 
+2022-04-18 17:38:18,392 - Important -INFO - company name entered successfully
+2022-04-18 17:38:18,672 - Important -INFO - product name entered successfully
+2022-04-18 17:38:18,985 - Important -INFO - requirement details entered successfully
+2022-04-18 17:38:19,189 - Important -INFO - name inside the buyerdashboard entered successfully
+2022-04-18 17:38:19,443 - Important -INFO - address inside the field entered successfully
+2022-04-18 17:38:19,655 - Important -INFO - city name entered successfully
+2022-04-18 17:38:19,873 - Important -INFO - postal code entered successfully
+2022-04-18 17:38:20,046 - Important -INFO - state name entered successfully
+2022-04-18 17:38:20,309 - Important -INFO - country japan selected successfully
+2022-04-18 17:38:20,624 - Important -INFO - phone number entered successfully
+2022-04-18 17:38:20,940 - Important -INFO - email entered successfully
+2022-04-18 17:38:21,210 - Important -INFO - details inside the homepage entered successfully
+2022-04-18 17:38:28,658 - Important -INFO - document is listed in the profile successfully
+2022-04-18 17:38:28,798 - Important -INFO - Document category Trading license selected successfully
+2022-04-18 17:38:29,292 - Important -INFO - Document Name Trading license selected successfully
+2022-04-18 17:38:29,370 - Important -INFO - choose files to upload functionality selected succesfully
+2022-04-18 17:38:29,370 - Important -INFO - document uploaded successfully
+2022-04-18 17:38:32,042 - Important -INFO - clicked on the StartYourDeal
+2022-04-18 17:38:32,945 - Important -INFO - login button clicked succesfully
+2022-04-18 17:38:33,106 - Important -INFO - Account verified successfully
+2022-04-18 17:38:39,622 - Important -INFO - click on add document functionality clicked successfully
+2022-04-18 17:38:42,638 - Important -INFO - document is listed in the profile successfully
+2022-04-18 17:38:52,507 - Important -INFO - browser closed successfully
+2022-04-18 17:38:56,343 - Important -INFO - Click on next and submit
+2022-04-18 17:38:59,106 - Important -INFO - document 1 downloaded sucessfully
+2022-04-18 17:39:00,815 - Important -INFO - browser closed successfully
+2022-04-18 17:39:01,203 - Important -INFO - browser closed successfully
+2022-04-18 17:39:03,319 - Important -INFO - document 2 downloaded sucessfully
+2022-04-18 17:39:07,646 - Important -INFO - Document 1 deleted successfully
+2022-04-18 17:39:14,092 - Important -INFO - Document 2 deleted successfully
+2022-04-29 14:49:24,722 - Important -INFO - Browser got launched
+2022-04-29 14:49:24,752 - Important -INFO - Browser got launched
+2022-04-29 14:49:24,752 - Important -INFO - Browser got launched
+2022-04-29 14:49:24,780 - Important -INFO - Browser got launched
+2022-04-29 14:49:24,780 - Important -INFO - Browser got launched
+2022-04-29 14:49:43,510 - Important -INFO - browser opened successfully
+2022-04-29 14:49:43,607 - Important -INFO - browser opened successfully
+2022-04-29 14:49:43,640 - Important -INFO - browser opened successfully
+2022-04-29 14:49:44,055 - Important -INFO - landed to login page successfully
+2022-04-29 14:49:44,055 - Important -INFO - successfully landed to loginpage
+2022-04-29 14:49:45,047 - Important -INFO - browser opened successfully
+2022-04-29 14:49:45,055 - Important -INFO - successfully landed to loginpage
+2022-04-29 14:49:48,518 - Important -INFO - browser opened successfully
+2022-04-29 14:49:48,525 - Important -INFO - successfully landed to loginpage
+2022-04-29 14:49:49,131 - Important -INFO - email address entered successfully
+2022-04-29 14:49:49,142 - Important -INFO - email entered successfully
+2022-04-29 14:49:49,176 - Important -INFO - email entered successfully
+2022-04-29 14:49:49,179 - Important -INFO - email entered successfully
+2022-04-29 14:49:50,273 - Important -INFO - password entered successfully
+2022-04-29 14:49:50,283 - Important -INFO - password entered successfully
+2022-04-29 14:49:50,300 - Important -INFO - password entered successfully
+2022-04-29 14:49:50,537 - Important -INFO - password entered successfully
+2022-04-29 14:49:53,175 - Important -INFO - landed to signup page successfully
+2022-04-29 14:49:53,730 - Important -INFO - company name entered successfully
+2022-04-29 14:49:54,320 - Important -INFO - i am supplier of ---field working successfully
+2022-04-29 14:49:54,602 - Important -INFO - i am buyers of--- field working successfully
+2022-04-29 14:49:55,823 - Important -INFO - Trade services field working successfully
+2022-04-29 14:49:56,903 - Important -INFO - primary business dropdown working successfully
+2022-04-29 14:49:57,724 - Important -INFO - year of business establishment working successfully
+2022-04-29 14:49:58,170 - Important -INFO - company certification field working successfully
+2022-04-29 14:49:58,506 - Important -INFO - Annual sales dropdown menu working successfully
+2022-04-29 14:49:58,737 - Important -INFO - name of new member entered successfully
+2022-04-29 14:49:59,713 - Important -INFO - Designation of new member entered successfully
+2022-04-29 14:50:02,100 - Important -INFO - address of new member entered successfully
+2022-04-29 14:50:06,839 - Important -INFO - Cityname of new member entered successfully
+2022-04-29 14:50:07,083 - Important -INFO - State name of new member entered successfully
+2022-04-29 14:50:07,106 - Important -INFO - login button clicked succesfully
+2022-04-29 14:50:07,324 - Important -INFO - login button clicked succesfully
+2022-04-29 14:50:07,938 - Important -INFO - Zipcode of new member entered successfully
+2022-04-29 14:50:08,127 - Important -INFO - country dropdown menu working successfully
+2022-04-29 14:50:08,646 - Important -INFO - phone number of new member entered successfully
+2022-04-29 14:50:10,173 - Important -INFO - email of new member entered successfully
+2022-04-29 14:50:10,517 - Important -INFO - Homepage address of new member entered successfully
+2022-04-29 14:50:10,829 - Important -INFO - Login credentials of new member entered successfully
+2022-04-29 14:50:11,114 - Important -INFO - password of new member entered successfully
+2022-04-29 14:50:11,562 - Important -INFO - password of new member verified successfully
+2022-04-29 14:50:11,611 - Important -INFO - Account verified successfully
+2022-04-29 14:50:11,614 - Important -INFO - Account verified successfully
+2022-04-29 14:50:12,615 - Important -INFO - successfully clicked on profile dropdown menu
+2022-04-29 14:50:13,308 - Important -INFO - input entered in searchbar successfully
+2022-04-29 14:50:22,702 - Important -INFO - final submit button working successfully
+2022-04-29 14:50:22,703 - Important -INFO - signup test verified successfully
+2022-04-29 14:50:37,605 - Important -INFO - find buyers via searching working successfully
+2022-04-29 14:50:46,533 - Important -INFO - find sellers via searching working successfully
+2022-04-29 14:50:46,734 - Important -INFO - countries filter working fine
+2022-04-29 14:50:47,336 - Important -INFO - premium membership filter working fine
+2022-04-29 14:50:47,524 - Important -INFO - Listing type filter working fine
+2022-04-29 14:50:48,560 - Important -INFO - Date filter working fine
+2022-04-29 14:50:48,561 - Important -INFO - Search test got passed successfully
+2022-04-29 14:50:54,455 - Important -INFO - login button clicked succesfully
+2022-04-29 14:50:54,657 - Important -INFO - Account verified successfully
+2022-04-29 14:50:54,699 - Important -INFO - successfully clicked on login button
+2022-04-29 14:50:55,078 - Important -INFO - product searched successfully
+2022-04-29 14:50:55,193 - Important -INFO - account confirmed successfully
+2022-04-29 14:50:55,196 - Important -INFO - login test got passed
+2022-04-29 14:50:57,080 - Important -INFO - suppliers for product found successfully
+2022-04-29 14:50:59,710 - Important -INFO - browser closed successfully
+2022-04-29 14:51:01,741 - Important -INFO - Browser got launched
+2022-04-29 14:51:03,638 - Important -INFO - clicked on inquiry button successfully
+2022-04-29 14:51:04,294 - Important -INFO - message field filled successfully
+2022-04-29 14:51:05,178 - Important -INFO - company name entered succesfully
+2022-04-29 14:51:05,350 - Important -INFO - Browser got launched
+2022-04-29 14:51:05,420 - Important -INFO - name entered successfully
+2022-04-29 14:51:05,613 - Important -INFO - phone number field filled successfully
+2022-04-29 14:51:07,441 - Important -INFO - browser closed successfully
+2022-04-29 14:51:08,918 - Important -INFO - browser closed successfully
+2022-04-29 14:51:12,541 - Important -INFO - Browser got launched
+2022-04-29 14:51:13,542 - Important -INFO - Browser got launched
+2022-04-29 14:51:15,842 - Important -INFO - inquire now button clicked successfully
+2022-04-29 14:51:26,587 - Important -INFO - browser opened successfully
+2022-04-29 14:51:26,590 - Important -INFO - successfully landed to loginpage
+2022-04-29 14:51:26,814 - Important -INFO - browser opened successfully
+2022-04-29 14:51:26,816 - Important -INFO - successfully landed to loginpage
+2022-04-29 14:51:26,913 - Important -INFO - email entered successfully
+2022-04-29 14:51:27,422 - Important -INFO - email entered successfully
+2022-04-29 14:51:27,461 - Important -INFO - browser opened successfully
+2022-04-29 14:51:27,464 - Important -INFO - landed to login page successfully
+2022-04-29 14:51:27,997 - Important -INFO - browser opened successfully
+2022-04-29 14:51:27,999 - Important -INFO - successfully landed to loginpage
+2022-04-29 14:51:28,028 - Important -INFO - password entered successfully
+2022-04-29 14:51:28,288 - Important -INFO - password entered successfully
+2022-04-29 14:51:28,728 - Important -INFO - email entered successfully
+2022-04-29 14:51:28,820 - Important -INFO - email address entered successfully
+2022-04-29 14:51:29,203 - Important -INFO - password entered successfully
+2022-04-29 14:51:29,406 - Important -INFO - password entered successfully
+2022-04-29 14:51:31,302 - Important -INFO - browser closed successfully
+2022-04-29 14:51:32,289 - Important -INFO - successfully clicked on login button
+2022-04-29 14:51:34,548 - Important -INFO - Browser got launched
+2022-04-29 14:51:42,504 - Important -INFO - login test got passed
+2022-04-29 14:51:43,091 - Important -INFO - login button clicked succesfully
+2022-04-29 14:51:44,928 - Important -INFO - Account verified successfully
+2022-04-29 14:51:45,563 - Important -INFO - Agriculture and food displaying menu successfully
+2022-04-29 14:51:46,076 - Important -INFO - Computer and electronics displaying menu successfully
+2022-04-29 14:51:46,337 - Important -INFO - browser closed successfully
+2022-04-29 14:51:49,433 - Important -INFO - Construction & Houshold displaying menu successfully
+2022-04-29 14:51:49,790 - Important -INFO - Industrial and Automotive displaying menu successfully
+2022-04-29 14:51:49,996 - Important -INFO - Misc. displaying menu successfully
+2022-04-29 14:51:50,239 - Important -INFO - Personal and entertainment displaying menu successfully
+2022-04-29 14:51:50,405 - Important -INFO - Help dropdown displaying menu successfully
+2022-04-29 14:51:50,556 - Important -INFO - Contact dropdown displaying menu successfully
+2022-04-29 14:51:50,741 - Important -INFO - For Buyers dropdown displaying menu successfully
+2022-04-29 14:51:50,988 - Important -INFO - user profile dropdown displaying menu successfully
+2022-04-29 14:51:51,272 - Important -INFO - For suppliers dropdown displaying menu successfully
+2022-04-29 14:51:52,882 - Important -INFO - Load more text functionality working fine
+2022-04-29 14:51:52,883 - Important -INFO - Dropdown test passed successfully
+2022-04-29 14:51:55,225 - Important -INFO - browser opened successfully
+2022-04-29 14:51:55,228 - Important -INFO - successfully landed to loginpage
+2022-04-29 14:51:55,240 - Important -INFO - Browser got launched
+2022-04-29 14:51:55,658 - Important -INFO - email entered successfully
+2022-04-29 14:51:55,991 - Important -INFO - password entered successfully
+2022-04-29 14:52:04,665 - Important -INFO - browser closed successfully
+2022-04-29 14:52:06,881 - Important -INFO - login button clicked succesfully
+2022-04-29 14:52:07,324 - Important -INFO - Account verified successfully
+2022-04-29 14:52:09,017 - Important -INFO - login button clicked succesfully
+2022-04-29 14:52:09,184 - Important -INFO - Account verified successfully
+2022-04-29 14:52:09,374 - Important -INFO - input entered in searchbar successfully
+2022-04-29 14:52:15,826 - Important -INFO - browser opened successfully
+2022-04-29 14:52:15,829 - Important -INFO - successfully landed to loginpage
+2022-04-29 14:52:16,344 - Important -INFO - Browser got launched
+2022-04-29 14:52:16,598 - Important -INFO - email entered successfully
+2022-04-29 14:52:17,119 - Important -INFO - password entered successfully
+2022-04-29 14:52:18,341 - Important -INFO - product added to favourites successfully
+2022-04-29 14:52:19,945 - Important -INFO - user profile dropdown clicked successfully
+2022-04-29 14:52:19,945 - Important -INFO - number of products adding to favourites displayed '1' successfully in profile dropdown menu
+2022-04-29 14:52:26,524 - Important -INFO - landed to favourites list successfully
+2022-04-29 14:52:42,023 - Important -INFO - login button clicked succesfully
+2022-04-29 14:52:42,196 - Important -INFO - Account verified successfully
+2022-04-29 14:52:42,476 - Important -INFO - category dropdown for deals clicked successfully
+2022-04-29 14:52:44,261 - Important -INFO - browser opened successfully
+2022-04-29 14:52:44,264 - Important -INFO - successfully landed to loginpage
+2022-04-29 14:52:44,725 - Important -INFO - email entered successfully
+2022-04-29 14:52:45,180 - Important -INFO - password entered successfully
+2022-04-29 14:52:46,421 - Important -INFO - identity proof in the Documents category selected successfully
+2022-04-29 14:52:47,145 - Important -INFO - Active deal for product in the category selected successfully
+2022-04-29 14:52:47,146 - Important -INFO - successfully showing Active deals for selected items
+2022-04-29 14:52:49,304 - Important -INFO - identity proof in the Documents category selected successfully
+2022-04-29 14:52:50,611 - Important -INFO - document uploaded successfully
+2022-04-29 14:52:50,871 - Important -INFO - Dropdown showing the (online/offline) status of product clicked successfully
+2022-04-29 14:52:50,871 - Important -INFO - Active and failed options are visible in the dropdown
+2022-04-29 14:52:53,977 - Important -INFO - login button clicked succesfully
+2022-04-29 14:52:54,215 - Important -INFO - Account verified successfully
+2022-04-29 14:52:54,379 - Important -INFO - Buyers dropdown clicked successfully
+2022-04-29 14:52:54,978 - Important -INFO - active deals selected successfully
+2022-04-29 14:52:54,979 - Important -INFO - after clicking on active deals new webpage is showing all the active deals
+2022-04-29 14:53:02,181 - Important -INFO - failed deals selected successfully
+2022-04-29 14:53:02,181 - Important -INFO - after clicking on failed deals new webpage is showing all the failed deals
+2022-04-29 14:53:03,646 - Important -INFO - fruits in the search field entered successfully
+2022-04-29 14:53:04,713 - Important -INFO - clicked on buyer dashboard successfully
+2022-04-29 14:53:06,036 - Important -INFO - document is listed in the profile successfully
+2022-04-29 14:53:06,249 - Important -INFO - Document category Trading license selected successfully
+2022-04-29 14:53:06,675 - Important -INFO - Document Name Trading license selected successfully
+2022-04-29 14:53:06,776 - Important -INFO - choose files to upload functionality selected succesfully
+2022-04-29 14:53:06,777 - Important -INFO - document uploaded successfully
+2022-04-29 14:53:07,484 - Important -INFO - successfully clicked on search deals for products
+2022-04-29 14:53:07,485 - Important -INFO - successfully showing deals for searched item
+2022-04-29 14:53:09,711 - Important -INFO - successfully clicked on post new 
+2022-04-29 14:53:10,972 - Important -INFO - company name entered successfully
+2022-04-29 14:53:11,167 - Important -INFO - start a new deal functionality clicked successfully
+2022-04-29 14:53:11,311 - Important -INFO - product name entered successfully
+2022-04-29 14:53:11,393 - Important -INFO - user is able to enter the name of the product
+2022-04-29 14:53:11,720 - Important -INFO - user is able to enter the name of the company
+2022-04-29 14:53:11,752 - Important -INFO - requirement details entered successfully
+2022-04-29 14:53:11,954 - Important -INFO - user is able to enter his or her name
+2022-04-29 14:53:11,993 - Important -INFO - name inside the buyerdashboard entered successfully
+2022-04-29 14:53:12,204 - Important -INFO - user is able to enter the email
+2022-04-29 14:53:12,239 - Important -INFO - address inside the field entered successfully
+2022-04-29 14:53:12,427 - Important -INFO - city name entered successfully
+2022-04-29 14:53:12,601 - Important -INFO - postal code entered successfully
+2022-04-29 14:53:12,786 - Important -INFO - state name entered successfully
+2022-04-29 14:53:13,088 - Important -INFO - country japan selected successfully
+2022-04-29 14:53:13,361 - Important -INFO - phone number entered successfully
+2022-04-29 14:53:13,629 - Important -INFO - email entered successfully
+2022-04-29 14:53:13,793 - Important -INFO - details inside the homepage entered successfully
+2022-04-29 14:53:15,951 - Important -INFO - click on add document functionality clicked successfully
+2022-04-29 14:53:18,958 - Important -INFO - document is listed in the profile successfully
+2022-04-29 14:53:19,237 - Important -INFO - document 1 downloaded sucessfully
+2022-04-29 14:53:22,980 - Important -INFO - clicked on the StartYourDeal
+2022-04-29 14:53:24,659 - Important -INFO - document 2 downloaded sucessfully
+2022-04-29 14:53:29,162 - Important -INFO - Document 1 deleted successfully
+2022-04-29 14:53:29,429 - Important -INFO - browser closed successfully
+2022-04-29 14:53:31,665 - Important -INFO - login button clicked succesfully
+2022-04-29 14:53:31,689 - Important -INFO - Click on next and submit
+2022-04-29 14:53:31,947 - Important -INFO - Account verified successfully
+2022-04-29 14:53:35,586 - Important -INFO - Document 2 deleted successfully
+2022-04-29 14:53:36,453 - Important -INFO - browser closed successfully
+2022-04-29 14:53:53,380 - Important -INFO - browser closed successfully
+2022-04-29 15:00:43,434 - Important -INFO - Browser got launched
+2022-04-29 15:00:45,657 - Important -INFO - browser opened successfully
+2022-04-29 15:00:46,011 - Important -INFO - successfully landed to loginpage
+2022-04-29 15:00:46,671 - Important -INFO - email entered successfully
+2022-04-29 15:00:47,098 - Important -INFO - password entered successfully
+2022-04-29 15:00:56,865 - Important -INFO - login button clicked succesfully
+2022-04-29 15:00:57,020 - Important -INFO - Account verified successfully
+2022-04-29 15:01:22,539 - Important -INFO - identity proof in the Documents category selected successfully
+2022-04-29 15:01:24,399 - Important -INFO - identity proof in the Documents category selected successfully
+2022-04-29 15:01:24,794 - Important -INFO - document uploaded successfully
+2022-04-29 15:01:37,527 - Important -INFO - document is listed in the profile successfully
+2022-04-29 15:01:37,795 - Important -INFO - Document category Trading license selected successfully
+2022-04-29 15:01:38,131 - Important -INFO - Document Name Trading license selected successfully
+2022-04-29 15:01:38,201 - Important -INFO - choose files to upload functionality selected succesfully
+2022-04-29 15:01:38,201 - Important -INFO - document uploaded successfully
+2022-04-29 15:01:47,124 - Important -INFO - click on add document functionality clicked successfully
+2022-04-29 15:01:50,134 - Important -INFO - document is listed in the profile successfully
+2022-04-29 15:01:50,445 - Important -INFO - document 1 downloaded sucessfully
+2022-04-29 15:01:54,759 - Important -INFO - document 2 downloaded sucessfully
+2022-04-29 15:01:59,272 - Important -INFO - Document 1 deleted successfully
+2022-04-29 15:02:05,519 - Important -INFO - Document 2 deleted successfully
+2022-04-29 15:02:21,821 - Important -INFO - browser closed successfully
+2022-04-29 15:05:05,358 - Important -INFO - Browser got launched
+2022-04-29 15:05:09,214 - Important -INFO - browser opened successfully
+2022-04-29 15:05:09,307 - Important -INFO - successfully landed to loginpage
+2022-04-29 15:05:09,611 - Important -INFO - email entered successfully
+2022-04-29 15:05:09,900 - Important -INFO - password entered successfully
+2022-04-29 15:05:19,846 - Important -INFO - login button clicked succesfully
+2022-04-29 15:05:20,013 - Important -INFO - Account verified successfully
+2022-04-29 15:05:20,551 - Important -INFO - successfully clicked on profile dropdown menu
+2022-04-29 15:05:31,031 - Important -INFO - browser closed successfully
+2022-04-29 15:08:54,796 - Important -INFO - Browser got launched
+2022-04-29 15:08:58,025 - Important -INFO - browser opened successfully
+2022-04-29 15:08:58,123 - Important -INFO - successfully landed to loginpage
+2022-04-29 15:08:58,308 - Important -INFO - email entered successfully
+2022-04-29 15:08:58,549 - Important -INFO - password entered successfully
+2022-04-29 15:09:08,288 - Important -INFO - login button clicked succesfully
+2022-04-29 15:09:08,456 - Important -INFO - Account verified successfully
+2022-04-29 15:09:08,665 - Important -INFO - successfully clicked on profile dropdown menu
+2022-04-29 15:09:18,332 - Important -INFO - successfully clicked on become a premium member
+2022-04-29 15:09:34,174 - Important -INFO - successfully clicked on get premium membership
+2022-04-29 15:09:45,891 - Important -INFO - Gold membership gor 6 months selected successfully
+2022-04-29 15:09:55,553 - Important -INFO - Silver membership gor 6 months selected successfully
+2022-04-29 15:10:05,218 - Important -INFO - Gold membership gor 12 months selected successfully
+2022-04-29 15:10:23,622 - Important -INFO - payment via debit/credit card working fine
+2022-04-29 15:10:49,758 - Important -INFO - payment via NetBankning working fine
+2022-04-29 15:11:19,230 - Important -INFO - payment via Electronic fund Transfer working fine
+2022-04-29 15:11:19,233 - Important -INFO - Payment Test passed successfully
+2022-04-29 15:11:19,522 - Important -INFO - browser closed successfully
+2022-04-29 15:14:29,376 - Important -INFO - Browser got launched
+2022-04-29 15:14:32,697 - Important -INFO - browser opened successfully
+2022-04-29 15:14:32,820 - Important -INFO - successfully landed to loginpage
+2022-04-29 15:14:33,196 - Important -INFO - email entered successfully
+2022-04-29 15:14:33,424 - Important -INFO - password entered successfully
+2022-04-29 15:14:43,010 - Important -INFO - login button clicked succesfully
+2022-04-29 15:14:43,315 - Important -INFO - Account verified successfully
+2022-04-29 15:14:43,522 - Important -INFO - successfully clicked on profile dropdown menu
+2022-04-29 15:14:54,467 - Important -INFO - browser closed successfully
+2022-04-29 15:53:22,051 - Important -INFO - Browser got launched
+2022-04-29 15:53:29,274 - Important -INFO - browser opened successfully
+2022-04-29 15:53:29,467 - Important -INFO - successfully landed to loginpage
+2022-04-29 15:53:29,792 - Important -INFO - email entered successfully
+2022-04-29 15:53:29,979 - Important -INFO - password entered successfully
+2022-04-29 15:53:39,341 - Important -INFO - login button clicked succesfully
+2022-04-29 15:53:39,489 - Important -INFO - Account verified successfully
+2022-04-29 15:54:08,761 - Important -INFO - identity proof in the Documents category selected successfully
+2022-04-29 15:54:10,550 - Important -INFO - identity proof in the Documents category selected successfully
+2022-04-29 15:54:10,943 - Important -INFO - document uploaded successfully
+2022-04-29 15:54:23,652 - Important -INFO - document is listed in the profile successfully
+2022-04-29 15:54:23,803 - Important -INFO - Document category Trading license selected successfully
+2022-04-29 15:54:24,165 - Important -INFO - Document Name Trading license selected successfully
+2022-04-29 15:54:24,255 - Important -INFO - choose files to upload functionality selected succesfully
+2022-04-29 15:54:24,256 - Important -INFO - document uploaded successfully
+2022-04-29 15:54:34,116 - Important -INFO - click on add document functionality clicked successfully
+2022-04-29 15:54:37,134 - Important -INFO - document is listed in the profile successfully
+2022-04-29 15:54:37,317 - Important -INFO - document 1 downloaded sucessfully
+2022-04-29 15:54:41,511 - Important -INFO - document 2 downloaded sucessfully
+2022-04-29 15:54:45,914 - Important -INFO - Document 1 deleted successfully
+2022-04-29 15:54:52,324 - Important -INFO - Document 2 deleted successfully
+2022-04-29 15:55:04,633 - Important -INFO - successfully landed to company details page
+2022-04-29 15:55:04,889 - Important -INFO - I am supplier of field filled successfully
+2022-04-29 15:55:05,211 - Important -INFO - I am buyer of field filled successfully
+2022-04-29 15:55:05,461 - Important -INFO - Trade services of field filled successfully
+2022-04-29 15:55:05,589 - Important -INFO - primary services dropdown showing menu successfully
+2022-04-29 15:55:05,773 - Important -INFO - Approx annual sales dropdown showing menu successfully
+2022-04-29 15:55:05,981 - Important -INFO - year of establishment field accepting the numbers successfully
+2022-04-29 15:55:06,142 - Important -INFO - field for company certifications accepting the characters successfully
+2022-04-29 15:55:06,287 - Important -INFO - name field accepting characters successfully
+2022-04-29 15:55:06,433 - Important -INFO - Designation field accepting characters successfully
+2022-04-29 15:55:06,636 - Important -INFO - Address field accepting the characters successfully
+2022-04-29 15:55:06,835 - Important -INFO - city field accepting characters successfully
+2022-04-29 15:55:07,017 - Important -INFO - postal code field accepting the characrters successfully
+2022-04-29 15:55:07,180 - Important -INFO - state name field accepting the characters successfully
+2022-04-29 15:55:07,371 - Important -INFO - email field accepting the characters successfully
+2022-04-29 15:55:07,520 - Important -INFO - phone number field accepting the characters successfully
+2022-04-29 15:55:07,660 - Important -INFO - homepage field accepting the characters successfully
+2022-04-29 15:55:07,771 - Important -INFO - details in the company page filled and clicked on next successfully
+2022-04-29 15:55:08,011 - Important -INFO - details entered in the company page saved successfully
+2022-04-29 15:55:08,012 - Important -INFO - editing in company page working successfully
+2022-04-29 15:55:11,869 - Important -INFO - image for company logo selected successfully
+2022-04-29 15:55:15,501 - Important -INFO - company logo uploaded successfully
+2022-04-29 15:55:15,833 - Important -INFO - first paragraph for company details is accepting characters sucessfully
+2022-04-29 15:55:15,937 - Important -INFO - image 1 for product selected successfully
+2022-04-29 15:55:21,140 - Important -INFO - image 1 for product uploaded successfully
+2022-04-29 15:55:21,340 - Important -INFO - image 2 for product selected successfully
+2022-04-29 15:55:29,473 - Important -INFO - image 2 uploaded successfully
+2022-04-29 15:55:29,805 - Important -INFO - Homepage edited and submitted successfully
+2022-04-29 15:55:29,805 - Important -INFO - Editing members details inside homepage working fine
+2022-04-29 15:55:34,603 - Important -INFO - successfully landed to product page
+2022-04-29 15:55:37,328 - Important -INFO - successfully landed to 'adding new products page'
+2022-04-29 15:55:37,501 - Important -INFO - name of the product entered successsfully
+2022-04-29 15:55:37,652 - Important -INFO - price of the product entered successfully
+2022-04-29 15:55:37,913 - Important -INFO - description of the product described successfully
+2022-04-29 15:55:38,069 - Important -INFO - successfully entered inside minimum order field 
+2022-04-29 15:55:38,249 - Important -INFO - unit selected successfully
+2022-04-29 15:55:38,419 - Important -INFO - country selected where product manufactured
+2022-04-29 15:55:38,579 - Important -INFO - packaging details entered successfully
+2022-04-29 15:55:38,779 - Important -INFO - production capacity entered successfully
+2022-04-29 15:55:38,881 - Important -INFO - 'sample available' field selected successfully
+2022-04-29 15:55:39,015 - Important -INFO - 'sample cost born by' field selected successfully
+2022-04-29 15:55:39,176 - Important -INFO - seller product code field entered successfully
+2022-04-29 15:55:39,306 - Important -INFO - product standard field entered successfully
+2022-04-29 15:55:39,463 - Important -INFO - brand name entered successfully
+2022-04-29 15:55:39,609 - Important -INFO - model number entered successfully
+2022-04-29 15:55:39,768 - Important -INFO - HS code entered successfully
+2022-04-29 15:55:41,062 - Important -INFO - key specification fields are filled succesfully
+2022-04-29 15:55:41,226 - Important -INFO - submit product page successfully
+2022-04-29 15:55:41,433 - Important -INFO - editing and submission inside product page working fine
+2022-04-29 15:55:42,549 - Important -INFO - successfully landed to dashboard
+2022-04-29 15:55:42,799 - Important -INFO - Buy requirement page working fine
+2022-04-29 15:55:51,058 - Important -INFO - successfully landed to the management page 
+2022-04-29 15:55:51,305 - Important -INFO - text entered in the paragraph 1 successfully
+2022-04-29 15:55:51,541 - Important -INFO - text entered in the paragraph 2 successfully
+2022-04-29 15:55:57,362 - Important -INFO - image 1 in the management page uploaded succesfully
+2022-04-29 15:56:03,021 - Important -INFO - image 2 in the management page uploaded succesfully
+2022-04-29 15:56:09,356 - Important -INFO - image 3 in the management page uploaded succesfully
+2022-04-29 15:56:09,605 - Important -INFO - text entered in the paragraph 3 successfully
+2022-04-29 15:56:09,879 - Important -INFO - text entered in the paragraph 4 successfully
+2022-04-29 15:56:10,239 - Important -INFO - editing and submission of management page working fine
+2022-04-29 15:56:10,239 - Important -INFO - management page working fine
+2022-04-29 15:56:17,581 - Important -INFO - successfully landed to facilities page
+2022-04-29 15:56:17,711 - Important -INFO - quality control radio button working fine
+2022-04-29 15:56:17,889 - Important -INFO - production type dropdown menu working fine
+2022-04-29 15:56:18,061 - Important -INFO - production lines field working fine
+2022-04-29 15:56:18,208 - Important -INFO - oem radiobutton working fine
+2022-04-29 15:56:18,379 - Important -INFO - dropdown investment on manufacturing working fine
+2022-04-29 15:56:18,509 - Important -INFO - dropdown percentage invested in company working fine
+2022-04-29 15:56:18,615 - Important -INFO - total staff dropdown working fine
+2022-04-29 15:56:18,706 - Important -INFO - Staff production dropdown working fine
+2022-04-29 15:56:18,807 - Important -INFO - Staff quality control dropdown working fine
+2022-04-29 15:56:18,915 - Important -INFO - Staff R&D dropdown working fine
+2022-04-29 15:56:19,024 - Important -INFO - Staff Sales and marketing dropdown working fine
+2022-04-29 15:56:19,131 - Important -INFO - Staff Sales engineering dropdown working fine
+2022-04-29 15:56:19,354 - Important -INFO - facilities site description box filled successfully
+2022-04-29 15:56:25,098 - Important -INFO - image under facilities page uploaded successfully
+2022-04-29 15:56:25,507 - Important -INFO - Machinery and production field entered successfully
+2022-04-29 15:56:25,750 - Important -INFO - materials and components field entered successfully
+2022-04-29 15:56:26,104 - Important -INFO - facilities page working fine
+2022-04-29 15:56:30,060 - Important -INFO - landed to news room successfully
+2022-04-29 15:56:30,285 - Important -INFO - first para filled successfully
+2022-04-29 15:56:30,512 - Important -INFO - second para filled successfully successfully
+2022-04-29 15:56:30,723 - Important -INFO - third para filled successfully successfully
+2022-04-29 15:56:36,294 - Important -INFO - image 1 uploaded successfully in newsroom
+2022-04-29 15:56:41,885 - Important -INFO - image 2 uploaded successfully in newsroom
+2022-04-29 15:56:42,070 - Important -INFO - fourth para filled successfully
+2022-04-29 15:56:47,248 - Important -INFO - image 3 uploaded successfully in newsroom
+2022-04-29 15:56:47,652 - Important -INFO - news room page working successfully
+2022-04-29 15:56:53,878 - Important -INFO - tax setting page working fine
+2022-04-29 15:56:54,407 - Important -INFO - browser closed successfully
